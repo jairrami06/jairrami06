@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://img.itch.zone/aW1hZ2UvMTY1MjM4MC85NzIxODE4LmdpZg==/original/iLZyQY.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fusagif.com%2Fes%2Fhermosos-gifs-del-espacio-y-el-universo%2F&psig=AOvVaw2cCHxK1rsa4ytBzV0lxzph&ust=1716162304600000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiw5_awmIYDFQAAAAAdAAAAABAQ)" alt="logo">
+  <img src="https://img.itch.zone/aW1hZ2UvMTY1MjM4MC85NzIxODE4LmdpZg==/original/iLZyQY.gif" alt="logo">
 </p>
 <h1 align="center">Hi 👋, I'm Jair Ramirez</h1>
 <h3 align="center">Passionate about code, dedicated to perfection.</h3>
@@ -7,10 +7,6 @@
 - 👨‍💻 You can check out my website here: [https://google.com](https://google.com)
 
 - 📄 Know about my experiences [https://google.com](https://google.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
