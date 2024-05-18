@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvMTY1MjM4MC85NzIxODE4LmdpZg==/original/iLZyQY.gif" alt="logo">
+  <img src="https://usagif.com/wp-content/uploads/gifs/starfall-gif-45.gif" alt="gif">
 </p>
 <h1 align="center">Hi 👋, I'm Jair Ramirez</h1>
 <h3 align="center">Passionate about code, dedicated to perfection.</h3>
