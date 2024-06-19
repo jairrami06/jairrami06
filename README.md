@@ -11,8 +11,6 @@
 <p align="justify">
 I am a programmer with experience in developing both web and desktop applications individually and as part of a team. My goal is to deliver robust, scalable, and innovative solutions that provide an exceptional user experience. Throughout my career, I have gained expertise in various programming languages including JavaScript, Java, Python, and MySQL, among others. My enthusiasm for technology drives me to stay at the forefront of the latest trends and to continually improve in all aspects. Currently, I am seeking new challenges that will allow me to apply and extend my skills.</p>
 
-- 📄 You can check out my CV here: [https://google.com](https://google.com)
-
 <br />
 
 ## **🚀 Languages and Tools:**  
@@ -23,10 +21,11 @@ I am a programmer with experience in developing both web and desktop application
 
 ## **🌎 Recent Projects:** 
 
+- <a href="https://jairrami06.github.io/landing/"> Nivel Software - Landing Page </a>
 - <a href="https://clone-balpisa-front-end.vercel.app/"> Balpisa Countertop Suppliers Company – Inventory Management System </a>
 
 <br />
 
 ## **🤝 Connect with me:**<p align="center">
-<a href="/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="crisintriago" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jair-ramirez-869a85221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jairrami" height="30" width="40" /></a>
 </p>
