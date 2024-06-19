@@ -27,5 +27,5 @@ I am a programmer with experience in developing both web and desktop application
 <br />
 
 ## **🤝 Connect with me:**<p align="center">
-<a href="https://www.linkedin.com/in/jair-ramirez-869a85221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jairrami" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jair-ramirez-869a85221/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jairrami" height="30" width="40" /></a>
 </p>
