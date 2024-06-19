@@ -21,8 +21,8 @@ I am a programmer with experience in developing both web and desktop application
 
 ## **🌎 Recent Projects:** 
 
-- <a href="https://jairrami06.github.io/landing/"> Nivel Software - Landing Page </a>
-- <a href="https://clone-balpisa-front-end.vercel.app/"> Balpisa Countertop Suppliers Company – Inventory Management System </a>
+- <a href="https://jairrami06.github.io/landing/" target="_blank"> Nivel Software - Landing Page </a>
+- <a href="https://clone-balpisa-front-end.vercel.app/" target="_blank"> Balpisa Countertop Suppliers Company – Inventory Management System </a>
 
 <br />
 
